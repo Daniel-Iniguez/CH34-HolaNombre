@@ -1,9 +1,10 @@
-body{
-    background: linear-gradient(90deg, rgb(6, 56, 1),rgb(248, 248, 248),rgb(252, 0, 0));
+*{
+    background-color: black;
 }
-h1{
-    border: 2px solid rgb(238, 157, 7);
-    padding: 2px;
-    
+section{
+    border: 2px solid rgb(191, 191, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
