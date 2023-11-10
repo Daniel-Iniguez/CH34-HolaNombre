@@ -1,0 +1,9 @@
+*{
+    background-color: linear-gradient(40deg, blue,red,white);
+}
+h1{
+    border: 2px solid rgb(238, 157, 7);
+    padding: 2px;
+    
+    
+}
